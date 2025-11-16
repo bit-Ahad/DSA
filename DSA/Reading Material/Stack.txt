@@ -1,5 +1,6 @@
 Stack:
 It use LIFO (Last in First Out) . Windows use it for expression evaluation using push and pop in prefix or postfix manner.
+Always made with a top variable that is initialized to -1 to tell array is empty. And data is entered and deleted by incrementing and decrementing in this top variable.
 
 Stack use to functions :
 1. Push
