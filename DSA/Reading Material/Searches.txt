@@ -1,0 +1,8 @@
+It used to search for a element in array. Searches are made with a variable named key.
+
+Linear Search:
+Start from starting of array and check with all elements of array one by one until we found the element.
+
+Binary Search:
+For Binary Search array must be sorted in ascending order.
+Use high, low and middle. Move to middle check for element then check it element is greater or smaller and then move to new middle toward left or right depending if element is greater or smaller than middle. 

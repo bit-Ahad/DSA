@@ -1,0 +1,10 @@
+Stack:
+It use LIFO (Last in First Out) . Windows use it for expression evaluation using push and pop in prefix or postfix manner.
+
+Stack use to functions :
+1. Push
+2. Pop
+
+Push  :  Insert a Element
+
+Pop   :  Remove the last element

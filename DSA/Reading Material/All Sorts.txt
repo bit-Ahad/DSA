@@ -1,0 +1,13 @@
+Sorting : These Techniques are used to sort arrays in ascending or descending form.
+
+Bubble Sort:
+Bubble while poring water in glass, bubbles come at top. (At the end of array).Swap adjacent elements again and again if they are in the wrong order.
+Passes : n-1 (Outer Loop)
+
+Selection Sort:
+Array divided into sorted and unsorted part. Select min/max element from unsorted part and place it in the end of sorted array.
+Passes : n-1
+
+Selection Sort:
+Like Playing cards, it select the element and place at correct position. It compare with all element at left side.
+Passes : n-1
