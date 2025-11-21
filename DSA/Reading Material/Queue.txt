@@ -1,0 +1,9 @@
+Queue use FIFO.
+
+It is always made with front, back variables. Both front and back assigned -1 that indicates its empty. 
+
+It has 3 functions:
+Push    (Enqueue)
+Pop	(Dequeue)
+Peek 	(Show Value that will be returned if pop is used (front value))
+
