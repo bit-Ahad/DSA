@@ -7,3 +7,5 @@ Push    (Enqueue)
 Pop	(Dequeue)
 Peek 	(Show Value that will be returned if pop is used (front value))
 
+Both Push and Pop have 2 conditions 1 for empty and full.
+and other for inserting and deleting.
