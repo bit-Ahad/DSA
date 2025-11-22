@@ -19,13 +19,12 @@ class circular_queue{
     			cout<<"Queue is Full"<<endl;
     			return;
 			}
+			back = ((back+1)%capacity);
+			
 			if(front==-1){
-				back=0;
 				front=0;
 			}
-			else{
-				back = ((back+1)%capacity);
-			}
+
 			arr[back]=a;
 			cout<<"Value Added"<<endl;
 		}
