@@ -1,0 +1,9 @@
+It is a type of a queue in end of queue is connected with start of queue. Just like a circle. 
+
+Both Push and Pop use 2 conditions.
+1 for checking full and empty.
+and 2 for inserting and deleting.
+
+
+Dry Run Link :
+https://youtu.be/xQdoA_7k4I4?si=BNd8UkRLJiE21AiG
